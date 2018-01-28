@@ -9,4 +9,5 @@ Before the actual game, each player secretly places 6 ships and 4 grenades on th
 
 The goal of the game is to sink all of your opponent’s ships before your opponent sinks yours.
 
-Credit goes to Dr. Aiman Hanna and the ENCS Department of Concordia University. 
+I am not the owner of this text, I simply edited it.
+All credit goes to Dr. Aiman Hanna and the ENCS Department of Concordia University.
